@@ -1,2 +1,2 @@
-# OmegaUp_Introducci-nA_C
+# OmegaUp_Introduccion a c++
 OmegaUp Introducción a c++
